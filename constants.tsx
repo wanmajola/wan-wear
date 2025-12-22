@@ -30,7 +30,7 @@ export const PRODUCTS: Product[] = [
     name: 'COTTON PIQUÉ POLO',
     category: 'Shirts',
     price: '€340',
-    image: 'https://images.unsplash.com/photo-1617137968427-839fba660739?auto=format&fit=crop&q=80&w=1200',
+    image: 'https://plus.unsplash.com/premium_photo-1683147816511-932c9cc82881?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     hoverImage: 'https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?auto=format&fit=crop&q=80&w=1200',
     description: 'Elevated simplicity. Our signature polo is knitted from double-mercerized Egyptian Giza cotton, providing a subtle lustre and exceptional breathability.',
     details: [
