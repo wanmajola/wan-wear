@@ -19,7 +19,7 @@ const BrandPage: React.FC<Props> = ({ onBack }) => {
           <BackButton onClick={onBack} className="mb-0 text-white hover:text-white/70" />
         </div>
         <div className="relative z-10 text-center px-8">
-          <span className="text-[10px] tracking-[0.5em] text-[#1a1a1a] uppercase mb-8 block">Est. 1994</span>
+          <span className="text-[10px] tracking-[0.5em] text-[#1a1a1a] uppercase mb-8 block">Est. 2001</span>
           <h1 className="font-serif text-6xl md:text-8xl font-light">The Wan-Wear Legacy</h1>
         </div>
       </section>
