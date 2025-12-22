@@ -14,7 +14,7 @@ export const PRODUCTS: Product[] = [
     name: 'SARTORIAL LINEN BLAZER',
     category: 'Outerwear',
     price: '€1,250',
-    image: 'https://images.unsplash.com/photo-1594932224828-b4b057b696ee?auto=format&fit=crop&q=80&w=1200',
+    image: 'https://plus.unsplash.com/premium_photo-1701204056494-1fff4540e991?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     hoverImage: 'https://images.unsplash.com/photo-1507679799987-c7377ec48696?auto=format&fit=crop&q=80&w=1200',
     description: 'A masterpiece of Neapolitan tailoring, this single-breasted blazer is crafted from high-density Irish linen. Its unstructured design offers a relaxed yet sophisticated silhouette, perfect for Mediterranean evenings.',
     details: [
