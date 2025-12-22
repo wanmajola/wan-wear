@@ -94,7 +94,7 @@ export const PRODUCTS: Product[] = [
     name: 'POPLIN SHIRT WHITE',
     category: 'Shirts',
     price: '€280',
-    image: 'https://images.unsplash.com/photo-1598033129183-c4f50c717658?auto=format&fit=crop&q=80&w=1200',
+    image: 'https://images.unsplash.com/photo-1656453260437-4f4da3ef81dc?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     hoverImage: 'https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?auto=format&fit=crop&q=80&w=1200',
     description: 'The cornerstone of any formal wardrobe. Our crisp poplin shirt is woven in Switzerland from extra-long staple cotton, offering a smooth, cool-to-the-touch feel.',
     details: [
