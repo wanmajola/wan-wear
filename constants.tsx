@@ -14,8 +14,8 @@ export const PRODUCTS: Product[] = [
     name: 'SARTORIAL LINEN BLAZER',
     category: 'Outerwear',
     price: '€1,250',
-    image: 'https://plus.unsplash.com/premium_photo-1701204056494-1fff4540e991?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    hoverImage: 'https://plus.unsplash.com/premium_photo-1701204053837-91b670e02f37?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://plus.unsplash.com/premium_photo-1673384389458-08c7e13b65c4?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    hoverImage: 'https://plus.unsplash.com/premium_photo-1691622500876-2d32e983b132?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'A masterpiece of Neapolitan tailoring, this single-breasted blazer is crafted from high-density Irish linen. Its unstructured design offers a relaxed yet sophisticated silhouette, perfect for Mediterranean evenings.',
     details: [
       '100% Organic Irish Linen',
