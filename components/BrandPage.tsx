@@ -35,7 +35,7 @@ const BrandPage: React.FC<Props> = ({ onBack }) => {
 
       <section className="grid grid-cols-1 md:grid-cols-3 gap-8 px-8 md:px-16 pb-32">
         <div className="space-y-6">
-          <img src="https://images.unsplash.com/photo-1521335629791-ce3acc67df60?auto=format&fit=crop&q=80&w=1200" className="w-full aspect-square object-cover" alt="Ethical Sourcing" />
+          <img src="https://images.unsplash.com/photo-1759078479318-61a755005d30?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" className="w-full aspect-square object-cover" alt="Ethical Sourcing" />
           <h4 className="text-xs tracking-widest font-medium uppercase">Ethical Sourcing</h4>
           <p className="text-sm font-light text-[#8a8a8a]">Working exclusively with heritage mills that prioritize sustainable grazing and regenerative agricultural practices.</p>
         </div>
