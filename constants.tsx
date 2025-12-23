@@ -126,7 +126,7 @@ export const PRODUCTS: Product[] = [
     name: 'WOOL PLEATED TROUSER',
     category: 'Trousers',
     price: '€520',
-    image: 'https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&q=80&w=1200',
+    image: 'https://plus.unsplash.com/premium_photo-1661255382106-f20f0f683c69?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     hoverImage: 'https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&q=80&w=1200',
     description: 'A nod to classic sartorialism, these pleated trousers are made from super 120s wool flannel. The high-waist design features elegant side adjusters and a sharp permanent crease.',
     details: [
