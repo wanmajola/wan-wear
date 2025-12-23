@@ -45,7 +45,7 @@ const BrandPage: React.FC<Props> = ({ onBack }) => {
           <p className="text-sm font-light text-[#8a8a8a]">Every buttonhole is hand-sewn, taking up to 45 minutes per suit to ensure durability and aesthetic perfection.</p>
         </div>
         <div className="space-y-6">
-          <img src="https://images.unsplash.com/photo-1598454547585-0739d75a8962?auto=format&fit=crop&q=80&w=1200" className="w-full aspect-square object-cover" alt="Timeless Design" />
+          <img src="https://images.unsplash.com/photo-1622745473880-16ffbdc379b8?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1598454547585-0739d75a8962?auto=format&fit=crop&q=80&w=1200" className="w-full aspect-square object-cover" alt="Timeless Design" />
           <h4 className="text-xs tracking-widest font-medium uppercase">Timeless Design</h4>
           <p className="text-sm font-light text-[#8a8a8a]">Our patterns are archived and updated only when a true functional improvement can be achieved.</p>
         </div>
