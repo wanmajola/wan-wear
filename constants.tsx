@@ -151,7 +151,7 @@ export const EDITORIAL_SECTIONS: EditorialSection[] = [
     title: 'Modern Silhouette',
     subtitle: 'Redefining the Classic',
     content: 'Our design philosophy embraces the quiet confidence of minimalism. By removing the unnecessary, we highlight the architectural beauty of perfect tailoring and the subtle nuance of texture.',
-    image: 'https://images.unsplash.com/photo-1592840331052-16e15c2c6f95?auto=format&fit=crop&q=80&w=1600',
+    image: 'https://images.unsplash.com/photo-1578145088240-2ae7231378c1?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     layout: 'left',
   }
 ];
