@@ -78,7 +78,7 @@ export const PRODUCTS: Product[] = [
     name: 'CASHMERE OVERCOAT',
     category: 'Outerwear',
     price: '€2,800',
-    image: 'https://images.unsplash.com/photo-1539533377285-34127b4b56b3?auto=format&fit=crop&q=80&w=1200',
+    image: 'https://plus.unsplash.com/premium_photo-1697750339429-14711ac344a5?q=80&w=664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     hoverImage: 'https://images.unsplash.com/photo-1544022613-e87ca75a784a?auto=format&fit=crop&q=80&w=1200',
     description: 'A timeless silhouette rendered in 100% Mongolian cashmere. This overcoat features a subtle herringbone weave and a hand-padded lapel for structural integrity that lasts a lifetime.',
     details: [
@@ -110,7 +110,7 @@ export const PRODUCTS: Product[] = [
     name: 'CHELSEA BOOT SUEDE',
     category: 'Footwear',
     price: '€750',
-    image: 'https://plus.unsplash.com/premium_photo-1697750339429-14711ac344a5?q=80&w=664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://images.unsplash.com/photo-1638247025967-b4e38f787b76?auto=format&fit=crop&q=80&w=1200',
     hoverImage: 'https://images.unsplash.com/photo-1605034313761-73ea4a0cfbf3?auto=format&fit=crop&q=80&w=1200',
     description: 'Classic Chelsea boots with a modern twist. The water-resistant suede upper is paired with a lightweight rubber sole for versatile wear across urban landscapes.',
     details: [
