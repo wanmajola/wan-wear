@@ -154,7 +154,7 @@ const App: React.FC = () => {
             <section className="grid grid-cols-1 md:grid-cols-2 gap-4 bg-white p-4">
               <div className="overflow-hidden aspect-[4/3] md:aspect-video">
                 <img
-                  src="https://images.unsplash.com/photo-1556905055-8f358a7a4bb4?auto=format&fit=crop&q=80&w=1200"
+                  src="https://plus.unsplash.com/premium_photo-1676586308142-29d38b98b57d?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Atelier detail"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-[5s]"
                 />
