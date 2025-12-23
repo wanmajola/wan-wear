@@ -144,7 +144,7 @@ export const EDITORIAL_SECTIONS: EditorialSection[] = [
     title: 'The Essence of Craftsmanship',
     subtitle: 'Woven with Intent',
     content: 'At Wan-Wear, every stitch tells a story of heritage. We select only the finest natural fibers, from Neapolitan linens to pure cashmere from the Mongolian highlands, ensuring each piece breathes with its wearer.',
-    image: 'https://images.unsplash.com/photo-1598454547585-0739d75a8962?auto=format&fit=crop&q=80&w=1600',
+    image: 'https://plus.unsplash.com/premium_photo-1708276231818-cb53dec61037?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     layout: 'right',
   },
   {
